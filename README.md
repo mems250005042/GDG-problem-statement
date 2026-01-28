@@ -3,6 +3,8 @@ News related to stock prices of Apple , to use for LLM model
 
 This Repository contains 3 tasks of Problem Statement one :
 PS 1 :
+
+
 Task 1: 7 days Forecast of Apple stock price and volatility using Time Series Model .
 
 
