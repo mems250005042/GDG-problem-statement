@@ -1,5 +1,4 @@
-# Apple-News
-News related to stock prices of Apple , to use for LLM model
+
 
 This Repository contains 3 tasks of Problem Statement one :
 
